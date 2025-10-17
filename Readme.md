@@ -27,4 +27,34 @@ Problem-3: Coin Change
 Solution: https://leetcode.com/problems/coin-change/
 
 🕐 Time spent: 1.5 hours
+
+## Day 3
+
+Solved 8 problems from LeetCode (mix of implementation, math, and simulation).
+
+Problem 1: 3264. Final Array State After K Multiplication Operations I
+Solution:https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1803915558
+
+Problem 2: 3274. Check if Two Chessboard Squares Have the Same Color
+Solution:https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/submissions/1803943145
+
+Problem 3: 3275. K-th Nearest Obstacle Queries
+Solution: https://leetcode.com/problems/k-th-nearest-obstacle-queries/submissions/1803957882
+
+Problem 4: 3114. Latest Time You Can Obtain After Replacing Characters
+ Solution:https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/submissions/1804075359
+
+Problem 5: 3115. Maximum Prime Difference
+Solution:https://leetcode.com/problems/maximum-prime-difference/submissions/1804077487
+
+Problem 6: 3127. Make a Square with the Same Color
+Solution:https://leetcode.com/problems/make-a-square-with-the-same-color/submissions/1804089146
+
+Problem 7: 3128. Right Triangles
+Solution:https://leetcode.com/problems/right-triangles/submissions/1804099026
+
+Problem 8: 3280. Convert Date to Binary
+Solution: https://leetcode.com/problems/convert-date-to-binary/submissions/1804420458
+
+⏱ Time spent: 3 hours.
    
