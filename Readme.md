@@ -57,4 +57,20 @@ Problem 8: 3280. Convert Date to Binary
 Solution: https://leetcode.com/problems/convert-date-to-binary/submissions/1804420458
 
 ⏱ Time spent: 3 hours.
+
+Day 4
+
+Gave two contests today — LeetCode Weekly Contest 472 and Codeforces Round 1060 (Div. 2).
+Solved 4 problems in total.
+
+🧩 LeetCode (Weekly Contest 472)
+
+Problem 1: 3718. Smallest Missing Multiple of K
+Solution: https://leetcode.com/problems/smallest-missing-multiple-of-k/submissions/1805452337
+
+Problem 2: 3719. Longest Balanced Subarray I
+Solution: https://leetcode.com/problems/longest-balanced-subarray-i/submissions/1805467543
+
+
+Solved problems A and B in codeforces round 1060(div2)
    
