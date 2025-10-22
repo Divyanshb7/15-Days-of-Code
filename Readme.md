@@ -58,7 +58,7 @@ Solution: https://leetcode.com/problems/convert-date-to-binary/submissions/18044
 
 ⏱ Time spent: 3 hours.
 
-Day 4
+## Day 4
 
 Gave two contests today — LeetCode Weekly Contest 472 and Codeforces Round 1060 (Div. 2).
 Solved 4 problems in total.
@@ -73,4 +73,31 @@ Solution: https://leetcode.com/problems/longest-balanced-subarray-i/submissions/
 
 
 Solved problems A and B in codeforces round 1060(div2)
+
+
+   ## Day 5
+
+Solved 6 problems today on LeetCode 💻
+
+Problems:
+
+Minimum Operations to Convert All Elements to Zero
+Solution: https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/submissions/1808175197
+
+Check if Any Element Has Prime Frequency
+Solution: https://leetcode.com/problems/check-if-any-element-has-prime-frequency/submissions/1808155322
+
+Resulting String After Adjacent Removals
+Solution: https://leetcode.com/problems/resulting-string-after-adjacent-removals/submissions/1807715909
+
+Find Minimum Log Transportation Cost
+Solution: https://leetcode.com/problems/find-minimum-log-transportation-cost/submissions/1807708040
+
+Maximum Median Sum of Subsequences of Size 3
+Solution: https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/submissions/1807676233
+
+Partition String Into Substrings With Values at Most K
+Solution: https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/submissions/1807662657
+
+🕒 Time spent: 3 hours
    
