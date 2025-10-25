@@ -122,4 +122,29 @@ Find Words Containing Character
 Solution:https://leetcode.com/problems/find-words-containing-character/submissions/1810095027
 
 🕒 Time spent: 2 hours
+
+ ## Day 7
+
+Solved 5 problems today on LeetCode 💻
+— 3 from Biweekly Contest 168 (rank 📊 5088)
+— 2 extra practice problems
+
+Problems:
+
+Maximize Sum of Squares of Digits (Solved in Biweekly Contest 168)
+Solution: https://leetcode.com/problems/maximize-sum-of-squares-of-digits/submissions/1811506574
+
+Minimum Operations to Transform Array (Solved in Biweekly Contest 168)
+Solution: https://leetcode.com/problems/minimum-operations-to-transform-array/submissions/1811474697
+
+Lexicographically Smallest String After Reverse (Solved in Biweekly Contest 168)
+Solution: https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/submissions/1811453985
+
+Reorganize String: 
+Solution: https://leetcode.com/problems/reorganize-string/submissions/1811137281
+
+Calculate Money in Leetcode Bank:
+Solution: https://leetcode.com/problems/calculate-money-in-leetcode-bank/submissions/1811025321
+
+🕒 Time spent: 3.5 hours(2hr contest+1.5hr other problems)
    
