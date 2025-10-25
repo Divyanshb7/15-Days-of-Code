@@ -100,4 +100,26 @@ Partition String Into Substrings With Values at Most K
 Solution: https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/submissions/1807662657
 
 🕒 Time spent: 3 hours
+   ## Day 6
+
+Solved 5 problems today on LeetCode 💻
+
+Problems:
+
+Maximum Length Substring With Two Occurrences
+Solution: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/submissions/1810305251
+
+Apply Operations to Make Sum of Array Greater Than or Equal to k 
+Solution: https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/submissions/1810296549
+
+Make Array Non-decreasing
+Solution: https://leetcode.com/problems/make-array-non-decreasing/submissions/1810262455
+
+Maximum Number of Operations With the Same Score I 
+Solution:https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/submissions/1810246918
+
+Find Words Containing Character 
+Solution:https://leetcode.com/problems/find-words-containing-character/submissions/1810095027
+
+🕒 Time spent: 2 hours
    
