@@ -170,4 +170,33 @@ Solution:https://leetcode.com/problems/target-sum/submissions/1813196479
 
 Number of Laser Beams in a Bank
 Solution:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1812745846
+
+## Day 9
+
+Solved 7 problems today on LeetCode 💻 — MORE HARD ONES TODAY
+
+Problems:
+
+Distinct Subsequences
+Solution:https://leetcode.com/problems/distinct-subsequences/submissions/1815084626
+
+Shortest Common Supersequence
+Solution:https://leetcode.com/problems/shortest-common-supersequence/submissions/1815026693
+
+Delete Operation for Two Strings
+Solution:https://leetcode.com/problems/delete-operation-for-two-strings/submissions/1814817522
+
+Minimum Insertion Steps to Make a String Palindrome
+Solution:https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/submissions/1814807362
+
+Longest Palindromic Subsequence
+Solution:https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1814800431
+
+Longest Common Subsequence
+Solution:https://leetcode.com/problems/longest-common-subsequence/submissions/1814624897
+
+Smallest Number With All Set Bits
+Solution:https://leetcode.com/problems/smallest-number-with-all-set-bits/submissions/1814595281
+
+⏰ Time spent: 5 hours
    
