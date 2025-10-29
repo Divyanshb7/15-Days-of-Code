@@ -147,4 +147,27 @@ Calculate Money in Leetcode Bank:
 Solution: https://leetcode.com/problems/calculate-money-in-leetcode-bank/submissions/1811025321
 
 🕒 Time spent: 3.5 hours(2hr contest+1.5hr other problems)
+
+⏱️ Time spent: 2.5 hours
+
+## Day 8
+
+Solved 5 problems today on LeetCode 💻 — all practice problems
+
+Problems:
+
+Number of Arithmetic Triplets
+Solution:https://leetcode.com/problems/number-of-arithmetic-triplets/submissions/1813966994
+
+Coin Change II
+Solution: https://leetcode.com/problems/coin-change-ii/submissions/1813909311
+
+Distribute Candies Among Children II
+Solution:https://leetcode.com/problems/distribute-candies-among-children-ii/submissions/1813830809
+
+Target Sum
+Solution:https://leetcode.com/problems/target-sum/submissions/1813196479
+
+Number of Laser Beams in a Bank
+Solution:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1812745846
    
