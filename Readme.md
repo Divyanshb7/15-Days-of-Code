@@ -214,4 +214,27 @@ Minimum Moves to Equal Array Elements
 Solution:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/1817606717
 
 ⏰ Time spent: ~3 hours 
+
+## Day 11
+
+Solved 5 problems today on LeetCode 💻 —  tackled some tricky ones!
+
+Problems:
+
+Longest Increasing Subsequence
+Solution:https://leetcode.com/problems/longest-increasing-subsequence/submissions/1820719289
+
+Find X-Sum of All K-Long Subarrays I
+Solution:https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/submissions/1820428599
+
+Minimum Time to Make Rope Colorful
+Solution:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/submissions/1819445860
+
+Count Unguarded Cells in the Grid
+Solution:https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1818784060
+
+Maximum Product of Three Elements After One Replacement
+Solution:https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/submissions/1818741526
+
+⏰ Time spent: ~4 hours
    
