@@ -195,8 +195,23 @@ Solution:https://leetcode.com/problems/longest-palindromic-subsequence/submissio
 Longest Common Subsequence
 Solution:https://leetcode.com/problems/longest-common-subsequence/submissions/1814624897
 
-Smallest Number With All Set Bits
-Solution:https://leetcode.com/problems/smallest-number-with-all-set-bits/submissions/1814595281
+## Day 10
 
-⏰ Time spent: 5 hours
+Solved 4 problems today on LeetCode 💻 — Keeping the streak alive!
+
+Problems:
+
+Find Missing Elements
+solution:https://leetcode.com/problems/find-missing-elements/submissions/1818735716
+
+Distribute Money to Maximum Children
+Solution:https://leetcode.com/problems/distribute-money-to-maximum-children/submissions/1817773124
+
+Decoded String at Index
+Solution:https://leetcode.com/problems/decoded-string-at-index/submissions/1817744907
+
+Minimum Moves to Equal Array Elements
+Solution:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/1817606717
+
+⏰ Time spent: ~3 hours 
    
