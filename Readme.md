@@ -237,4 +237,41 @@ Maximum Product of Three Elements After One Replacement
 Solution:https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/submissions/1818741526
 
 ⏰ Time spent: ~4 hours
+
+## Day 12
+
+Solved 4 problems today on LeetCode 💻 — Pushed deeper into dynamic programming patterns!
+
+Problems:
+
+Longest String Chain
+Solution: https://leetcode.com/problems/longest-string-chain/submissions/1820809589
+
+Largest Divisible Subset
+Solution:https://leetcode.com/problems/largest-divisible-subset/submissions/1820747377
+
+Number of Longest Increasing Subsequence
+Solution:https://leetcode.com/problems/number-of-longest-increasing-subsequence/submissions/1821541257
+
+Append Characters to String to Make Subsequence
+Solution:https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/submissions/1821575210
+
+⏰ Time spent: ~4.5 hours
+
+## Day 13
+
+Solved 2 problems today on LeetCode 💻 — 
+
+Problems:
+
+Find the Minimum Area to Cover All Ones I
+Solution:https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1822966037
+
+Divide Players Into Teams of Equal Skill
+Solution:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/1821581743
+
+
+⏰ Time spent: ~3.5 hours
+
+
    
